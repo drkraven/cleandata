@@ -10,11 +10,11 @@
 7. Output this dataset to a text file!
 
 ### Code Book
-subject_id                   1      User identifier [1 - 30]
-activity_lable               2      [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
-tBodyAcc-mean()-X            3      Average mean values for tBodyAcc-X for each subject for each activity
-tBodyAcc-mean()-Y            4      Average mean values for tBodyAcc-Y for each subject for each activity                
-tBodyAcc-mean()-Z            5      Average mean values for tBodyAcc-Z for each subject for each activity
+-- subject_id                   1      User identifier [1 - 30]
+-- activity_lable               2      [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
+-- tBodyAcc-mean()-X            3      Average mean values for tBodyAcc-X for each subject for each activity
+-- tBodyAcc-mean()-Y            4      Average mean values for tBodyAcc-Y for each subject for each activity                
+-- tBodyAcc-mean()-Z            5      Average mean values for tBodyAcc-Z for each subject for each activity
 tBodyAcc-std()-X             6
 tBodyAcc-std()-Y             7
 tBodyAcc-std()-Z             8
