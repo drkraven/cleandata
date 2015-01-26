@@ -10,33 +10,86 @@
 7. Output this dataset to a text file!
 
 ### Code Book
--- subject_id                   1      User identifier [1 - 30]
--- activity_lable               2      [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
--- tBodyAcc-mean()-X            3      Average mean values for tBodyAcc-X for each subject for each activity
--- tBodyAcc-mean()-Y            4      Average mean values for tBodyAcc-Y for each subject for each activity                
--- tBodyAcc-mean()-Z            5      Average mean values for tBodyAcc-Z for each subject for each activity
+subject_id                   1      User identifier [1 - 30]
+
+activity_lable               2      [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
+
+tBodyAcc-mean()-X            3      Average mean values for tBodyAcc-X for each subject for each activity
+
+tBodyAcc-mean()-Y            4      Average mean values for tBodyAcc-Y for each subject for each activity                
+
+tBodyAcc-mean()-Z            5      Average mean values for tBodyAcc-Z for each subject for each activity
+
 tBodyAcc-std()-X             6
+
 tBodyAcc-std()-Y             7
+
 tBodyAcc-std()-Z             8
+
 tGravityAcc-mean()-X         9      Average mean values for tGravityAcc-X for each subject for each activity              
+
 tGravityAcc-mean()-Y         10     Average mean values for tGravityAcc-Y for each subject for each activity                
+
 tGravityAcc-mean()-Z         11     Average mean values for tGravityAcc-Z for each subject for each activity 
+
 tGravityAcc-std()-X          12       
+
 tGravityAcc-std()-Y          13
+
 tGravityAcc-std()-Z          14
-tBodyAccJerk-mean()-X        15             
-tBodyAccJerk-mean()-Y
-tBodyAccJerk-mean()-Z        
+
+tBodyAccJerk-mean()-X        15     Average mean values for tBodyAccJerk-y for each subject for each activity        
+
+tBodyAccJerk-mean()-Y        16     Average mean values for tBodyAccJerk-y for each subject for each activity
+
+tBodyAccJerk-mean()-Z        17     Average mean values for tBodyAccJerk-y for each subject for each activity
+
 tBodyAccJerk-std()-X                
+
 tBodyAccJerk-std()-Y
-tBodyAccJerk-std()-Z, tBodyGyro-mean()-X,                   
-tBodyGyro-mean()-Y, tBodyGyro-mean()-Z, tBodyGyro-std()-X,                    
-tBodyGyro-std()-Y, tBodyGyro-std()-Z, tBodyGyroJerk-mean()-X,               
-tBodyGyroJerk-mean()-Y, tBodyGyroJerk-mean()-Z, tBodyGyroJerk-std()-X,                
-tBodyGyroJerk-std()-Y, tBodyGyroJerk-std()-Z, tBodyAccMag-mean(),                   
-tBodyAccMag-std(), tGravityAccMag-mean(), tGravityAccMag-std(),                 
-tBodyAccJerkMag-mean(), tBodyAccJerkMag-std(), tBodyGyroMag-mean(),                  
-tBodyGyroMag-std(), tBodyGyroJerkMag-mean(),               , tBodyGyroJerkMag-std(),               
+
+tBodyAccJerk-std()-Z
+
+tBodyGyro-mean()-X                   
+
+tBodyGyro-mean()-Y 
+
+tBodyGyro-mean()-Z
+
+tBodyGyro-std()-X
+
+tBodyGyro-std()-Y
+
+tBodyGyro-std()-Z
+
+tBodyGyroJerk-mean()-X
+
+tBodyGyroJerk-mean()-Y
+
+tBodyGyroJerk-mean()-Z
+
+tBodyGyroJerk-std()-X,                
+tBodyGyroJerk-std()-Y, tBodyGyroJerk-std()-Z, 
+
+tBodyAccMag-mean()                   
+
+tBodyAccMag-std() 
+
+tGravityAccMag-mean()
+
+tGravityAccMag-std()
+
+tBodyAccJerkMag-mean()
+
+tBodyAccJerkMag-std()
+
+tBodyGyroMag-mean()                  
+
+tBodyGyroMag-std()
+
+tBodyGyroJerkMag-mean()
+
+tBodyGyroJerkMag-std(),               
 fBodyAcc-mean()-X, fBodyAcc-mean()-Y, fBodyAcc-mean()-Z,                    
 fBodyAcc-std()-X, fBodyAcc-std()-Y, fBodyAcc-std()-Z,                     
 fBodyAccJerk-mean()-X, fBodyAccJerk-mean()-Y, fBodyAccJerk-mean()-Z,                
