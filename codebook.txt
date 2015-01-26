@@ -123,7 +123,7 @@ fBodyGyro-std()-Z 60 Average standard deviation values for fBodyGyro-Z for each 
 fBodyAccMag-mean() 61 Average mean values for fBodyAccMag for each subject for each activity
 
 fBodyAccMag-std() 62 Average standard deviation values for fBodyAccMag for each subject for each activity
-
+us
 fBodyBodyAccJerkMag-mean() 63 Average mean values for fBodyBodyAccJerkMag for each subject for each activity
 
 fBodyBodyAccJerkMag-std() 64 Average standard deviation values for fBodyBodyAccJerkMag for each subject for each activity
