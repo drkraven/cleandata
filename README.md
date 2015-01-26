@@ -7,7 +7,7 @@
 4. Combined subject_id and activity lables with each observation row to create a complete dataset by calling function assembleDS.
 5. Merge test and training dataset together as one data set
 6. Finally, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-7. Output this dataset to a text file!
+7. Output this dataset to a text file
 
 ### Code Book
 subject_id                   1      User identifier [1 - 30]
